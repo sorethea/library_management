@@ -1,7 +1,7 @@
 app_name = "library_management"
 app_title = "Library Management"
 app_publisher = "Sorethea OK"
-app_description = "Library Managment System"
+app_description = "Library Management System"
 app_email = "sorethea@gmail.com"
 app_license = "mit"
 # required_apps = []

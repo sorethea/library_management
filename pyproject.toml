@@ -3,7 +3,7 @@ name = "library_management"
 authors = [
     { name = "Sorethea OK", email = "sorethea@gmail.com"}
 ]
-description = "Library Managment System"
+description = "Library Management System"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
